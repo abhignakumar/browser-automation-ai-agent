@@ -10,6 +10,9 @@ An intelligent agent that automates web interactions and captures screenshots ba
 - **Human-in-the-Loop**: Optional approval before executing automation steps
 - **Integration with AI Models**: Uses Google's Generative AI for processing queries
 
+## AI Agent Architecture
+![AI Agent Architecture](./ai-agent-architecture.png)
+
 ## Prerequisites
 
 - Node.js (v16 or higher)
