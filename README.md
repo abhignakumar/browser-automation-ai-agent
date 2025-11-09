@@ -1,6 +1,6 @@
-# Workflow UI Capture Agent
+# Browser Automation AI Agent
 
-An intelligent agent that automates web interactions and captures screenshots based on natural language queries. The system uses an AI Agent architecture to understand user intents and perform browser automation tasks and captures/screenshots the UI states.
+An AI Agent that automates and executes a workflow/process based on natural language instructions using a web browser and also captures screenshots of the UI states of the workflow. The system uses an AI Agent architecture to understand user intents and perform browser automation tasks using Playwright MCP Server and captures/screenshots the UI states.
 
 ## Features
 
@@ -25,8 +25,8 @@ An intelligent agent that automates web interactions and captures screenshots ba
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/abhignakumar/workflow-ui-capture-agent
-   cd workflow-ui-capture-agent
+   git clone https://github.com/abhignakumar/browser-automation-ai-agent
+   cd browser-automation-ai-agent
    ```
 
 2. Install dependencies:
